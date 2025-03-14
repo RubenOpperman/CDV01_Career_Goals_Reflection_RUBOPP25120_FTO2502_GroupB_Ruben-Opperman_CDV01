@@ -142,6 +142,17 @@ By completing this reflection, you will gain a clearer understanding of your car
    - Include networking, mentorship, or educational opportunities.
      - Programming events are a good way to network and meet new people and i have to build relationships with people who are more experienced than me in programming so that i can learn from them.
 
+### Part 6: Reflection summary
+
+    I now have more clarity of my goals and steps that i have to take in order to achieve my goals.
+
+    At the moment i have to complete my CodeSpace Course and i am aiming to have a 80% average across all assessments and i am going to do that by completing my tasks every day and i am going to try to perfect all my challenges that i have to submit.I want to aim for perfection but i am human and i must accept that so when i lose marks i am going to learn from my mistakes and improve and i am always going to have a growth minset .
+
+    After i complete my codespace course i am going to build projects and i am going to add it to my portfolio and next year i want to enroll into a Computer Science major.
+    I am going to put all my focus into my studies and with also build projects on the side so that when i graduate i have a lot to show for when i apply for work and i will have an advantage against most new graduates.
+
+    At the moment i want to become a software developer.
+
 ### Submission
 
 - To complete this submission you will need to use this template and complete Parts 1 to 5.
