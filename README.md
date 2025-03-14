@@ -1,4 +1,3 @@
-
 # Career Goals Reflection Template
 
 ### Introduction to the Template
@@ -16,65 +15,132 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name**: Ruben Opperman
+- **Date**: 14/03/2025
+- **Current Role/Position**: Student
+- **Field of Interest**: Software development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+
+   - List your current skills and areas of expertise.
+
+     - Problem Solving
+     - Fast learner
+     - critical thinking
+     - Integrity
+     - Adaptability
+     - Decision-making
+
+   - Identify skills you need to develop or improve.
+
+     - Communication
+     - Time management
+     - Teamwork
+
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+
+   - Describe your key interests related to your career.
+
+     - Researching for answers
+     - Improving in a skill
+     - Gaining knowledge about topics
+     - Problem solving and seeking solutions
+     - mathamatics
+
+   - What values are important to you in a work environment?
+     - Integrity
+     - Accountability
+     - Loyalty
+     - Honesty
+     - Positivity
+     - Respect
+     - Reliability
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+
+   - List the industries or roles you have researched.
+
+     - Web developer
+     - Data scientist
+     - Cloud engineer
+     - Software engineer
+     - software developer
+
+   - Note any particular areas that piqued your interest.
+     - Software developer
+     - Software engineer
+
 2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+
+   - Reflect on how these industries/roles align with your skills, interests, and values.
+
+     - All of the roles/industries contains mathamatics and requires problem solving skills and a life long learning mentality to improve .
+
+   - Identify any gaps or areas for further exploration.
+     - I want to study Computer Science next year so that i can gain knowledge for these roles/fields and to attain a certificate for a Computer Science degree .
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+
+   - List your specific, measurable, achievable, relevant, and time-bound goals.
+
+     - I want to complete my CodeSpace course with an average of 80%.
+
+   - Explain the rationale behind each goal.
+     - After i complete this CodeSpace course i will have a portfolio and will have the ability to build projects with html,css and javescrips.
+
 2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+
+   - Outline your long-term career aspirations.
+
+     - I want to Graduate my Computer Science Degree and i want to grow my portfolio with projects that i have built in 5 years so that i can apply for a job.
+
+   - Describe how these align with your interests and skills.
+     - These goals bring me closer to landing a job in Software development so that i can live my dream to be a programmer and problem solver.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+
+   - Detail specific actions or steps needed to achieve each short-term goal.
+
+     - I need to complete my given projects and Learning material in the LMS CodeSpace course every week so that i can work towards graduation after the full 6 months at code Space.
+
+   - Include any resources or support required.
+     - my parents pay for my studies.
+
 2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+
+   - Describe the preparations or groundwork necessary for your long-term aspirations.
+     - I have to start a Computer Science course at an universaty so that i can complete my degree and do my homework and study every semester.
+   - Consider additional skills, experiences, or qualifications needed.
+     - I have to build projects along the way that helps me improve my abilities to program and solve solutions.
+     - I have to graduate my Computer Science course to attain a degree so that i can add it to my CV for work;
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+
+   - Identify potential obstacles or challenges in reaching your goals.
+
+     - Perfectionism might be holding me back or slowing me down.
+     - Personal distractions might come in the way of my learning.
+
+   - Consider strategies to overcome these challenges.
+     - I will have to remind myself that nothing is perfect .
+     - I have to set my goals very clearly and remind myself if i want to go ahead with my plans and have to minimize distractions.
+
 2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+
+   - Highlight any opportunities you can leverage for career growth.
+     - I need to attend programming events so that i can sharpen my programming skills.
+   - Include networking, mentorship, or educational opportunities.
+     - Programming events are a good way to network and meet new people and i have to build relationships with people who are more experienced than me in programming so that i can learn from them.
 
 ### Submission
 
@@ -83,5 +149,3 @@ By completing this reflection, you will gain a clearer understanding of your car
 - You will fill in your reflections for each seciton under Parts 1 to 5.
 - Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
 - You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
-
